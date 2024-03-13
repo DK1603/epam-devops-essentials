@@ -1,4 +1,4 @@
-# EPAM Devops Essential Training Final Task
+# EPAM DevOps Essentials Training Tasks
 
 ## Scripting: Bash Task-1
 
